@@ -4,6 +4,9 @@ A personal Windows Raycast extension that takes a fresh GlazeWM snapshot when
 opened and displays a visual workspace navigator. No local development toolchain
 is required for cloud development and automated testing.
 
+For desktop testing, [download the built extension package](https://github.com/CoreyTrach/glazewm-navigator/raw/refs/heads/main/downloads/glazewm-navigator.rayext).
+See [package instructions and validation limits](downloads/README.md).
+
 ![Synthetic example, not a real desktop capture](docs/synthetic-preview.svg)
 
 **The example above is entirely synthetic. Real Windows integration has not been
